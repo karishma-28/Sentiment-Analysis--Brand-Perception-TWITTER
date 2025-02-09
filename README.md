@@ -1,6 +1,6 @@
 # Sentiment Analysis--Brand Perception-TWITTER
 
-<img src="img.jpeg" alt="Image" width="900" height="400">
+<img src="https://github.com/user-attachments/assets/f16ed6c9-89eb-4200-830a-51abd350c383" alt="Image" width="900" height="400">
 
 ## Table of Contents
 
